@@ -4,52 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<style>
-.contact-button {
-display: inline-block;
-margin: 10px;
-padding: 10px 20px;
-font-size: 16px;
-text-decoration: none;
-color: #fff;
-background-color: #007BFF;
-border-radius: 5px;
-transition: background-color 0.3s ease;}
-
-.contact-button:hover {
-background-color: #0056b3;
-}
-
-.linkedin-button {
-background-color: #007BFF;
-color: #fff;
-padding: 10px 20px;
-border-radius: 5px;
-text-decoration: none;
-font-size: 16px;
-margin: 10px;
-transition: background-color 0.3s ease;
-}
-
-.linkedin-button:hover {
-background-color: #0056b3;
-}
-
-.email-button {
-background-color: #007BFF;
-color: #fff;
-padding: 10px 20px;
-border-radius: 5px;
-text-decoration: none;
-font-size: 16px;
-margin: 10px;
-transition: background-color 0.3s ease;
-}
-
-.email-button:hover {
-background-color: #0056b3;
-}
-</style>
 
 <body>
 <h1> 😊 Hi, I'm Zain Faisal</h1>
@@ -62,23 +16,23 @@ My passion for artificial intelligence fuels my continuous learning journey, and
 </p>
 
 <p>
-  With a background as a Data Analyst, Data Science Intern, and ML Engineer, I've contributed to impactful projects. Noteworthy achievements include deploying ML models and crafting Face Recognition features using Hugging-Face and Langchain technologies.
+With a background as a Data Analyst, Data Science Intern, and ML Engineer, I've contributed to impactful projects. Noteworthy achievements include deploying ML models and crafting Face Recognition features using Hugging-Face and Langchain technologies.
 </p>
 
 <p>
-  Beyond my professional pursuits, I find joy in playing and watching cricket 🏏.
+Beyond my professional pursuits, I find joy in playing and watching cricket 🏏.
 </p>
 
 <p>
-  Let's connect and explore pioneering possibilities in technology together. I'm enthusiastic about collaborating on meaningful projects, creating innovative solutions that redefine the landscape of AI and Data Science.
+Let's connect and explore pioneering possibilities in technology together. I'm enthusiastic about collaborating on meaningful projects, creating innovative solutions that redefine the landscape of AI and Data Science.
 </p>
 
 <p>
-  Thank you for taking the time to visit my GitHub profile. Let's join forces to drive impactful advancements! 🤝
+Thank you for taking the time to visit my GitHub profile. Let's join forces to drive impactful advancements! 🤝
 </p>
 
 
-**Feel free to explore my repositories for more!**
+### **Feel free to explore my repositories for more!**
 </body>
 </html>
 
@@ -89,32 +43,50 @@ My passion for artificial intelligence fuels my continuous learning journey, and
 - **BS Data Science:** Punjab University, Lahore
   - _5th Semester (Current)_
   
-<div align="center">
-  <h2 align="center">📫 Get in Touch</h2>
+
+## 📫 Get in Touch
 
 
-<!-- LinkedIn Badge -->
-<a href="www.linkedin.com/in/zain-faisal-593b05239" class="linkedin-button">LinkedIn</a>
+<a href="www.linkedin.com/in/zain-faisal-593b05239"
+style="display: inline-block; margin: 10px; padding: 10px 20px; font-size: 16px;
+text-decoration: none; color: #fff; background-color: #007BFF;
+border-radius: 5px; transition: background-color 0.3s ease;"
+onmouseover="this.style.backgroundColor='#0056b3'"
+onmouseout="this.style.backgroundColor='#007BFF'">
+LinkedIn
+</a>
 
-<!-- Email Badge -->
-<a href="mailto:zainfaisal280@gmail.com" class="email-button" >Email</a>
+<a href="mailto:zainfaisal280@gmail.com"
+style="display: inline-block; margin: 10px; padding: 10px 20px; font-size: 16px;
+text-decoration: none; color: #fff; background-color: #007BFF;
+border-radius: 5px; transition: background-color 0.3s ease;"
+onmouseover="this.style.backgroundColor='#0056b3'"
+onmouseout="this.style.backgroundColor='#007BFF'">
+Email
+</a>
 
 # 💻 Tech Stack:
 
 ## **Python:**
-- Proficient in Python, the core language for my data science and machine learning endeavors. I leverage Python's versatility and readability for effective problem-solving and code development
+
+Proficient in Python, the core language for my data science and machine learning endeavors. I leverage Python's versatility and readability for effective problem-solving and code development
 
 **NumPy:**
-- Extensive experience with NumPy, a fundamental library for numerical computing in Python. I use NumPy for efficient array operations and mathematical computations in data analysis and machine learning models.
+
+Extensive experience with NumPy, a fundamental library for numerical computing in Python. I use NumPy for efficient array operations and mathematical computations in data analysis and machine learning models.
 
 **Pandas:**
-- Adept at using Pandas for data manipulation and analysis. I leverage its powerful data structures, such as DataFrames, to clean, transform, and explore datasets, ensuring data is ready for insightful analysis.
+
+Adept at using Pandas for data manipulation and analysis. I leverage its powerful data structures, such as DataFrames, to clean, transform, and explore datasets, ensuring data is ready for insightful analysis.
 
 **Matplotlib and Seaborn:**
-- Skilled in data visualization with Matplotlib and Seaborn. I create informative and visually appealing charts and plots to communicate findings and trends effectively.
+
+Skilled in data visualization with Matplotlib and Seaborn. I create informative and visually appealing charts and plots to communicate findings and trends effectively.
 
 **Data Analyst:**
-- As a data analyst, I've successfully completed various projects that involved extracting actionable insights from data.
+
+As a data analyst, I've successfully completed various projects that involved extracting actionable insights from data.
 
 **Machine Learning Engineer:**
-- In the realm of machine learning, I have developed predictive models using advanced algorithms.
+
+In the realm of machine learning, I have developed predictive models using advanced algorithms.
