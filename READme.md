@@ -4,54 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Introduction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 20px;
-        }
-
-        h1 {
-            color: #007BFF;
-        }
-
-        .contact-button {
-            display: inline-block;
-            margin: 10px;
-            padding: 10px 20px;
-            font-size: 16px;
-            text-decoration: none;
-            color: #fff;
-            background-color: #007BFF;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-
-        .contact-button:hover {
-            background-color: #0056b3;
-        }
-
-        .skills-list {
-            list-style: none;
-            padding: 0;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            margin-top: 20px;
-        }
-
-        .skills-list li {
-            margin: 5px;
-            padding: 10px 15px;
-            background-color: #007BFF;
-            color: #fff;
-            border-radius: 5px;
-        }
-    </style>
 </head>
 <body>
-    <h1>Hi, I'm Zain Faisal</h1>
-     <p>Welcome to my GitHub! I'm a passionate and results-driven data scientist and machine learning engineer with a strong foundation in Python development. I specialize in leveraging data-driven insights to solve complex problems and make informed decisions.</p>
+    <h1> 😊 Hi, I'm Zain Faisal</h1>
+    <p>Welcome to my GitHub! I'm a passionate and results-driven data scientist and machine learning engineer with a strong foundation in Python development. I specialize in leveraging data-driven insights to solve complex problems and make informed decisions.</p>
 
     <p>
   As a seasoned Machine Learning Engineer and Data Scientist, I possess a wealth of expertise in programming languages, ML frameworks, and data analysis, propelling projects towards success. 🚀 My proficiency spans various tools and frameworks, including Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, MySQL, MongoDB, and more. I specialize in both supervised and unsupervised learning techniques, ensuring the delivery of exceptional results.
@@ -66,7 +22,7 @@
 </p>
 
 <p>
-  Beyond my professional pursuits, I find joy in playing cricket 🏏.
+  Beyond my professional pursuits, I find joy in playing and watching cricket 🏏.
 </p>
 
 <p>
@@ -79,6 +35,10 @@
 
 
 Feel free to explore my repositories for more!
+</body>
+</html>
+
+
 
 ## 📚 Education
 
@@ -89,24 +49,28 @@ Feel free to explore my repositories for more!
   <h2 align="center">📫 Get in Touch</h2>
 
 
+<!-- LinkedIn Badge -->
+<a href="www.linkedin.com/in/zain-faisal-593b05239">LinkedIn</a>
 
+<!-- Email Badge -->
+<a href="mailto:zainfaisal280@gmail.com">Email</a>
 
-    
-    <a href="mailto:zainfaisal280@gmail.com" class="contact-button">Email</a>
-    <a href="www.linkedin.com/in/zain-faisal-593b05239" class="contact-button">LinkedIn</a>
+# 💻 Tech Stack:
 
-    <h2>Skills</h2>
-    <ul class="skills-list">
-        <li>Python</li>
-        <li>OOP in python</li>
-        <li>Data Structures and Algorithms in Python</li>
-        <li>NumPy</li>
-        <li>Pandas</li>
-        <li>Matplotlib</li>
-        <li>Seaborn</li>
-        <li>Data Analyst</li>
-        <li>Machine Learning Engineer</li>
-        <li>Data Scientist</li>
-    </ul>
-</body>
-</html>
+<p>**Python:**
+    - Proficient in Python, the core language for my data science and machine learning endeavors. I leverage Python's versatility and readability for effective problem-solving and code development.</p>
+
+    <p>**NumPy:**
+    - Extensive experience with NumPy, a fundamental library for numerical computing in Python. I use NumPy for efficient array operations and mathematical computations in data analysis and machine learning models.</p>
+
+    <p>**Pandas:**
+    - Adept at using Pandas for data manipulation and analysis. I leverage its powerful data structures, such as DataFrames, to clean, transform, and explore datasets, ensuring data is ready for insightful analysis.</p>
+
+    <p>**Matplotlib and Seaborn:**
+    - Skilled in data visualization with Matplotlib and Seaborn. I create informative and visually appealing charts and plots to communicate findings and trends effectively.</p>
+
+    <p>**Data Analyst:**
+    - As a data analyst, I've successfully completed various projects that involved extracting actionable insights from data. One notable project includes [Project Name], where I [brief description and outcomes].</p>
+
+    <p>**Machine Learning Engineer:**
+    - In the realm of machine learning, I have developed predictive models using advanced algorithms. A standout project is [Project Name], where I [brief description and outcomes].</p>
