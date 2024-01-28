@@ -5,20 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <style>
-  .contact-button {
-  display: inline-block;
-  margin: 10px;
-  padding: 10px 20px;
-  font-size: 16px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #007BFF;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;}
+.contact-button {
+display: inline-block;
+margin: 10px;
+padding: 10px 20px;
+font-size: 16px;
+text-decoration: none;
+color: #fff;
+background-color: #007BFF;
+border-radius: 5px;
+transition: background-color 0.3s ease;}
 
-  .contact-button:hover {
-  background-color: #0056b3;
-  }
+.contact-button:hover {
+background-color: #0056b3;
+}
 
 .linkedin-button {
 background-color: #007BFF;
@@ -102,19 +102,19 @@ My passion for artificial intelligence fuels my continuous learning journey, and
 # 💻 Tech Stack:
 
 ## **Python:**
-    - Proficient in Python, the core language for my data science and machine learning endeavors. I leverage Python's versatility and readability for effective problem-solving and code development
+- Proficient in Python, the core language for my data science and machine learning endeavors. I leverage Python's versatility and readability for effective problem-solving and code development
 
-  **NumPy:**
-    - Extensive experience with NumPy, a fundamental library for numerical computing in Python. I use NumPy for efficient array operations and mathematical computations in data analysis and machine learning models.
+**NumPy:**
+- Extensive experience with NumPy, a fundamental library for numerical computing in Python. I use NumPy for efficient array operations and mathematical computations in data analysis and machine learning models.
 
-  **Pandas:**
-    - Adept at using Pandas for data manipulation and analysis. I leverage its powerful data structures, such as DataFrames, to clean, transform, and explore datasets, ensuring data is ready for insightful analysis.
+**Pandas:**
+- Adept at using Pandas for data manipulation and analysis. I leverage its powerful data structures, such as DataFrames, to clean, transform, and explore datasets, ensuring data is ready for insightful analysis.
 
-  **Matplotlib and Seaborn:**
-    - Skilled in data visualization with Matplotlib and Seaborn. I create informative and visually appealing charts and plots to communicate findings and trends effectively.
+**Matplotlib and Seaborn:**
+- Skilled in data visualization with Matplotlib and Seaborn. I create informative and visually appealing charts and plots to communicate findings and trends effectively.
 
-  **Data Analyst:**
-    - As a data analyst, I've successfully completed various projects that involved extracting actionable insights from data.
+**Data Analyst:**
+- As a data analyst, I've successfully completed various projects that involved extracting actionable insights from data.
 
-  **Machine Learning Engineer:**
-    - In the realm of machine learning, I have developed predictive models using advanced algorithms.
+**Machine Learning Engineer:**
+- In the realm of machine learning, I have developed predictive models using advanced algorithms.
