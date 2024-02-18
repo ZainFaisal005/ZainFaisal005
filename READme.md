@@ -92,3 +92,11 @@ As a data analyst, I've successfully completed various projects that involved ex
 ## **Machine Learning Engineer:**
 
 In the realm of machine learning, I have developed predictive models using advanced algorithms.
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zain-007-69&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zain-007-69&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-007-69&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
