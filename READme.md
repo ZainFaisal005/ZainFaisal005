@@ -95,13 +95,13 @@ In the realm of machine learning, I have developed predictive models using advan
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zain-007-69&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zain-007-69&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-007-69&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zain-007-69&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ZainFaisal005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
@@ -109,4 +109,4 @@ In the realm of machine learning, I have developed predictive models using advan
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zain-007-69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ZainFaisal005&limit=5&theme=dark&combine_all_yearly_contributions=true)
