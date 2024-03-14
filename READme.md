@@ -11,7 +11,7 @@
 
 <p>As a seasoned Machine Learning Engineer and Data Scientist, I possess a wealth of expertise in programming languages, ML frameworks, and data analysis, propelling projects towards success.</p>
 
-<p>🚀 My proficiency spans various tools and frameworks, including Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, TensorFlow, Keras, MySQL, MongoDB, and more. I specialize in both supervised and unsupervised learning techniques, ensuring the delivery of exceptional results.</p>
+<p>🚀 My proficiency spans various tools and frameworks, including Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-Learn, MySQL, and more. I specialize in both supervised and unsupervised learning techniques, ensuring the delivery of exceptional results.</p>
 
 <p>
 My passion for artificial intelligence fuels my continuous learning journey, and I thrive in dynamic team environments. I bring a robust skill set that encompasses NLP, Data Analysis, Data Visualization, and Statistical Analysis.
