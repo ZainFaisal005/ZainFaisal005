@@ -95,9 +95,12 @@ In the realm of machine learning, I have developed predictive models using advan
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZainFaisal005&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainFaisal005&theme=vue-dark&hide_border=false&background=0D1117&stroke=C9D1D9&ring=58A6FF&fire=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+
 
 
 ## 🏆 GitHub Trophies
