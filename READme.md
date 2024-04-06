@@ -111,4 +111,6 @@ In the realm of machine learning, I have developed predictive models using advan
 ![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=ZainFaisal005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 📈 Additional Stats
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZainFaisal005&theme=dracula&bg_color=0D1117&hide_border=false)
+- Total Commits: [![Total Commits](https://img.shields.io/github/commit-activity/m/ZainFaisal005/ZainFaisal005?label=Total%20Commits&style=flat-square&color=58A6FF)](https://github.com/ZainFaisal005)
+- Followers: ![Followers](https://img.shields.io/github/followers/ZainFaisal005?label=Followers&style=flat-square&color=58A6FF)
+- Contributions in the Last Year: ![Yearly Contributions](https://img.shields.io/github/last-commit/ZainFaisal005/ZainFaisal005?label=Yearly%20Contributions&style=flat-square&color=58A6FF)
