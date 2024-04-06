@@ -95,21 +95,20 @@ In the realm of machine learning, I have developed predictive models using advan
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZainFaisal005&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainFaisal005&theme=vue-dark&hide_border=false&background=0D1117&stroke=C9D1D9&ring=58A6FF&fire=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZainFaisal005&theme=dracula&hide_border=false&background=0D1117&stroke=C9D1D9&ring=58A6FF&fire=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainFaisal005&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainFaisal005&theme=dracula&hide_border=false&layout=compact&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZainFaisal005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZainFaisal005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repositories
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=ZainFaisal005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ZainFaisal005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 Additional Stats
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZainFaisal005&theme=dracula&bg_color=0D1117&hide_border=false)
