@@ -13,9 +13,12 @@ I'm a BS Data Science student at Punjab University, Lahore, Pakistan, with a pas
 [![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 [![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
+[![NLP](https://img.shields.io/badge/-NLP-4db6ac?style=for-the-badge&logo=nlp&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![Data Visualization](https://img.shields.io/badge/-Data_Visualization-6a0dad?style=for-the-badge&logo=data-visualization&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
+[![PowerBi](https://img.shields.io/badge/-PowerBi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
 [![Statistics](https://img.shields.io/badge/-Statistics-8E24AA?style=for-the-badge&logo=statistics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
 [![Big Data](https://img.shields.io/badge/-Big_Data-212121?style=for-the-badge&logo=big-data&logoColor=white)](https://en.wikipedia.org/wiki/Big_data)
+[![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 
 ## 🏆 Achievements
 
