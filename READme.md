@@ -29,7 +29,7 @@ I'm a BS Data Science student at Punjab University, Lahore, Pakistan, with a pas
 - Completed so many courses on Kaggle with certificates.
 
 ## 🖥️ Kaggle Projects
-[Explore my Kaggle profile for projects by clicking on following icon!]
+### Explore my Kaggle profile for projects by clicking on following icon!
 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zain280/code)
 
