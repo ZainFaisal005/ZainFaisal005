@@ -25,7 +25,7 @@ I'm a BS Data Science student at Punjab University, Lahore, Pakistan, with a pas
 - Completed advanced machine learning courses on Youtube and Kaggle, earning certificates of completion.
 - Deployed a machine learning model into production using Scikitlearn for real-time predictions, achieving 95% accuracy.
 - Compeleted more than 10 hands on practical projects of Data Analysis.
-- 3X Kaggle expert with rank of top 300.
+- 2X Kaggle Master with rank of top 150.
 - Completed so many courses on Kaggle with certificates.
 
 ## 🖥️ Kaggle Projects
